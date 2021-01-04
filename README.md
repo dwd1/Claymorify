@@ -20,7 +20,16 @@ cd C:\MinerClay
 start Claymorify.exe -cp "C:\MinerClay" -ce "start-miner.bat" -i 012345 -p "updating memory timings finished" -d 10 -mp "C:\Miner" -me "start-miner.bat"
 ```
 
-> You can see all command line arguments if you start Claymorify without parameters.
+> Command line parameters:
+```
+-cp Path of the Claymore miner, eg. "C:\MinerClay"
+-ce Executable of the Claymore miner, eg. "start-miner.bat"
+-i The index of the cards which must to be paused, eg. 012345
+-p The log string after Claymore miner automatically paused, eg. "updating memory timings finished"
+-d The delay of seconds after miner automatically paused after the specified log line, eg. 10
+-mp Path of the another miner, eg. "C:\Miner"
+-me Executable of the another miner, eg. "start-miner.bat"
+```
 
 Create Claymore start-miner.bat (eg. C:\MinerClay\start-miner.bat):
 ```
