@@ -86,7 +86,7 @@ Example Claymore config.txt (eg. C:\MinerClay\config.txt):
 ```
 > The epool and ewal value does not matter because Claymore mining stops after optimizations applied. Its only needed to set the correct cclock, mclock, cvddc, mvddc, strap, rxboost values in an Ethash algo coin with smaller DAG.
 
-Edit you another miner config.txt (eg. C:\Miner\config.txt).
+Edit your another miner config.txt (eg. C:\Miner\config.txt).
 
 **You must define the same cclock, mclock, cvddc, mvddc values in your another miner config.txt.**
 
