@@ -91,3 +91,7 @@ Edit your another miner config.txt (eg. C:\Miner\config.txt).
 **You must define the same cclock, mclock, cvddc, mvddc values in your another miner config.txt.**
 
 ### If you like this tool please send a small amount of donation (minimum 0.05 ETH) to 0xdddddddc3c1c2c2bbb0955f143cf1521ec90ed41 address or the tool will stop after several hours of running.
+
+**Bitcointalk thread:** https://bitcointalk.org/index.php?topic=5306865
+
+**Demo video:** https://www.youtube.com/watch?v=1KgQBDFOOLM
